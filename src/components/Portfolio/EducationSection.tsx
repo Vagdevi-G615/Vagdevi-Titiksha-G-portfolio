@@ -5,28 +5,28 @@ const EducationSection = () => {
   const educationData = [
     {
       degree: 'Bachelor of Technology',
-      institution: 'Your University Name',
+      institution: 'Malla Reddy Engineering College for Women',
       branch: 'Computer Science & Engineering',
-      duration: '2021 - 2025',
+      duration: '2022 - 2026',
       grade: 'CGPA: 8.5/10',
       description: 'Relevant coursework: Data Structures, Algorithms, Machine Learning, Database Systems, Software Engineering',
       icon: <GraduationCap className="h-6 w-6" />
     },
     {
       degree: '12th Grade (Higher Secondary)',
-      institution: 'Your School Name',
+      institution: 'Sri Chaithanya Junior Kalasala',
       branch: 'Science (PCM)',
-      duration: '2019 - 2021',
-      grade: '92.5%',
-      description: 'Subjects: Physics, Chemistry, Mathematics, Computer Science',
+      duration: '2020 - 2022',
+      grade: '87.5%',
+      description: 'Subjects: Physics, Chemistry, Mathematics',
       icon: <Award className="h-6 w-6" />
     },
     {
       degree: '10th Grade (Secondary)',
-      institution: 'Your School Name',
+      institution: 'Sri Sai Public School',
       branch: 'All Subjects',
-      duration: '2017 - 2019',
-      grade: '95.2%',
+      duration: '2020',
+      grade: '90%',
       description: 'Comprehensive education with focus on Science and Mathematics',
       icon: <Award className="h-6 w-6" />
     }
