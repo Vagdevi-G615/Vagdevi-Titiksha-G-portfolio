@@ -3,8 +3,8 @@ import { Download, Mail, Github, Code, Trophy, Linkedin } from 'lucide-react';
 
 const HeroSection = () => {
   const socialLinks = [
-    { icon: Mail, href: 'mailto:your.email@gmail.com', label: 'Email' },
-    { icon: Github, href: 'https://github.com/yourusername', label: 'GitHub' },
+    { icon: Mail, href: 'mailto:vagdevititikshag@gmail.com', label: 'Email' },
+    { icon: Github, href: 'https://github.com/Vagdevi-G615', label: 'GitHub' },
     { icon: Code, href: 'https://leetcode.com/yourusername', label: 'LeetCode' },
     { icon: Trophy, href: 'https://hackerrank.com/yourusername', label: 'HackerRank' },
     { icon: Linkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
@@ -20,7 +20,7 @@ const HeroSection = () => {
               <h1 className="text-5xl lg:text-6xl font-bold">
                 Hi, I'm{' '}
                 <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                  Your Name
+                  Vagdevi Titiksha Gorti
                 </span>
               </h1>
               <p className="text-xl lg:text-2xl text-muted-foreground font-medium">
