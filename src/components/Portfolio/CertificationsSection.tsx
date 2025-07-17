@@ -7,76 +7,74 @@ const CertificationsSection = () => {
   {
     "name": "Introduction to Cybersecurity",
     "provider": "Cisco Networking Academy",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Jun 2025",
     "status": "Completed",
     "description": "Fundamentals of cybersecurity principles, threats, and defenses.",
     "skills": ["Cybersecurity", "Network Security", "Threat Analysis"],
-    "credentialUrl": "https://www.netacad.com",
+    "credentialUrl": "https://www.netacad.com/certificates?issuanceId=be162d10-2716-4499-8670-bcf90c6da132",
    logo: '☁️'
   },
   {
     "name": "Introduction to Networks",
     "provider": "Cisco Networking Academy",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Jun 2025",
+    
     "status": "Completed",
     "description": "Basics of networking, including IP addressing, cabling, and protocols.",
     "skills": ["Networking", "IP Addressing", "Cabling", "Protocols"],
-    "credentialUrl": "https://www.netacad.com",logo: '📊'
+    "credentialUrl": "https://www.netacad.com/certificates?issuanceId=b5565a59-983b-4e5d-b9e1-07c00d05c6f7",
+    logo: '📊'
   },
   {
     "name": "Switching, Routing and Wireless Essentials",
     "provider": "Cisco Networking Academy",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Jun 2025",
+   
     "status": "Completed",
     "description": "Knowledge of switching, routing, and wireless technologies in enterprise networks.",
     "skills": ["Switching", "Routing", "Wireless Networking"],
-    "credentialUrl": "https://www.netacad.com",
+    "credentialUrl": "https://www.netacad.com/certificates?issuanceId=78c0901e-1f8f-4e65-8be2-8cf84eff7759",
    logo: '⚛️'
   },
   {
     "name": "Cybersecurity Essentials",
     "provider": "Cisco Networking Academy",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Jun 2025",
+ 
     "status": "Completed",
     "description": "Core principles of cybersecurity, cryptography, and security operations.",
     "skills": ["Cybersecurity", "Security Operations", "Cryptography"],
-    "credentialUrl": "https://www.netacad.com",
+    "credentialUrl": "https://www.netacad.com/certificates?issuanceId=cd764aaf-2b41-4378-868a-5d3faf436985",
    logo: '🔬'
   },
   {
     "name": "Python Essentials",
     "provider": "Cisco Networking Academy",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Jun 2025",
     "status": "Completed",
     "description": "Foundations of Python programming including data types, loops, and functions.",
     "skills": ["Python", "Programming Fundamentals"],
-    "credentialUrl": "https://www.netacad.com",
+    "credentialUrl": "https://www.netacad.com/certificates?issuanceId=32ba046f-8e62-4226-88b0-6976f460173f",
    logo: '🔷'
   },
   {
-    "name": "Data Structures and Performance",
+    "name": "Data Structures",
     "provider": "University of California, San Diego (Coursera)",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Feb 2024",
+   
     "status": "Completed",
     "description": "Covers core data structures and performance optimization techniques in Java.",
     "skills": ["Data Structures", "Algorithms", "Java"],
-    "credentialUrl": "https://coursera.org"
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/U2FCEW9VEE8V"
   },
   {
     "name": "Introduction to Data Analytics",
     "provider": "IBM (Coursera)",
-    "date": "Month Year",
-    "credentialId": "N/A",
+    "date": "Feb 2024",
     "status": "Completed",
     "description": "Covers data-driven decision making, key tools, and career paths in analytics.",
     "skills": ["Data Analytics", "Data Visualization", "Data-Driven Decisions"],
-    "credentialUrl": "https://coursera.org"
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/FDRKW7LVN8X2"
   },
   {
     "name": "Introduction to Databases",
