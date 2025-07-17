@@ -279,8 +279,8 @@ const CertificationsSection = () => {
         {/* Summary Stats */}
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
           <div className="text-center">
-            <div className="text-3xl font-bold text-primary mb-2">6</div>
-            <div className="text-muted-foreground">Active Certifications</div>
+            <div className="text-3xl font-bold text-primary mb-2">18</div>
+            <div className="text-muted-foreground">Completed Certifications</div>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold text-primary mb-2">5</div>
@@ -291,7 +291,7 @@ const CertificationsSection = () => {
             <div className="text-muted-foreground">Skills Validated</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-primary mb-2">2024</div>
+            <div className="text-3xl font-bold text-primary mb-2">2025</div>
             <div className="text-muted-foreground">Latest Certification</div>
           </div>
         </div>
