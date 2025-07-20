@@ -5,9 +5,9 @@ const HeroSection = () => {
   const socialLinks = [
     { icon: Mail, href: 'mailto:vagdevititikshag@gmail.com', label: 'Email' },
     { icon: Github, href: 'https://github.com/Vagdevi-G615', label: 'GitHub' },
-    { icon: Code, href: 'https://leetcode.com/yourusername', label: 'LeetCode' },
-    { icon: Trophy, href: 'https://hackerrank.com/yourusername', label: 'HackerRank' },
-    { icon: Linkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
+    { icon: Code, href: 'https://leetcode.com/u/VagdeviG615/', label: 'LeetCode' },
+    { icon: Trophy, href: 'https://www.hackerrank.com/profile/gvtitiksha', label: 'HackerRank' },
+    { icon: Linkedin, href: 'www.linkedin.com/in/vagdevi-titiksha-gorti', label: 'LinkedIn' },
   ];
 
   return (
