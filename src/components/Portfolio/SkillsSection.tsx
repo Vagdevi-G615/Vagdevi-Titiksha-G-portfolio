@@ -33,8 +33,8 @@ const SkillsSection = () => {
   ];
 
   const tools = [
-    'Jupyter Notebook', 'VS Code', 'Git', 'Docker', 'AWS', 'Google Cloud',
-    'Tableau', 'Power BI', 'Figma', 'Postman', 'MongoDB', 'PostgreSQL'
+    'Jupyter Notebook', 'VS Code', 'Git', 
+    'Tableau', 'Power BI', 'Figma', 'MongoDB', 'PostgreSQL'
   ];
 
   const certifications = [
