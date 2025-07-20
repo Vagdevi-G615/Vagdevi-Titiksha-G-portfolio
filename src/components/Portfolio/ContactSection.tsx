@@ -22,7 +22,7 @@ const ContactSection = () => {
       icon: <Mail className="h-5 w-5" />,
       label: 'Email',
       value: 'your.email@gmail.com',
-      href: 'mailto:your.email@gmail.com'
+      href: 'mailto:youremail@gmail.com'
     },
     {
       icon: <Phone className="h-5 w-5" />,
@@ -42,14 +42,14 @@ const ContactSection = () => {
     {
       icon: <Github className="h-5 w-5" />,
       label: 'GitHub',
-      href: 'https://github.com/yourusername',
-      username: 'yourusername'
+      href: 'https://github.com/Vagdevi-G615',
+      username: 'Vagdevi-G615'
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/yourusername',
-      username: '/in/yourusername'
+      href: 'www.linkedin.com/in/vagdevi-titiksha-gorti',
+      username: 'in/vagdevi-titiksha-gorti'
     },
    
   ];
