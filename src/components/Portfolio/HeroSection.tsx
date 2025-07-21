@@ -7,7 +7,7 @@ const HeroSection = () => {
     { icon: Github, href: 'https://github.com/Vagdevi-G615', label: 'GitHub' },
     { icon: Code, href: 'https://leetcode.com/u/VagdeviG615/', label: 'LeetCode' },
     { icon: Trophy, href: 'https://www.hackerrank.com/profile/gvtitiksha', label: 'HackerRank' },
-    { icon: Linkedin, href: 'www.linkedin.com/in/vagdevi-titiksha-gorti', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/vagdevi-titiksha-gorti/', label: 'LinkedIn' },
   ];
 
   return (
