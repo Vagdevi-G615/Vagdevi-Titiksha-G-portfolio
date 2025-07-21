@@ -6,14 +6,13 @@ import { Github, ExternalLink, Database, Brain, Globe, BarChart3 } from 'lucide-
 const ProjectsSection = () => {
   const projects = [
     {
-      title: 'Machine Learning Price Predictor',
-      description: 'A comprehensive ML model that predicts house prices using advanced regression techniques and feature engineering. Achieved 94% accuracy with ensemble methods.',
+      title: 'Stock market anomaly detection',
+      description: 'Stock market anomaly detection with Machine Learning Anomalies in stock prices may signal significant market events, fraud, or opportunities. The project employs several anomaly detection algorithms to discover malicious stock price movements.',
       category: 'Machine Learning',
       icon: <Brain className="h-6 w-6" />,
-      technologies: ['Python', 'Scikit-learn', 'Pandas', 'NumPy', 'Flask'],
-      githubUrl: 'https://github.com/yourusername/price-predictor',
-      demoUrl: 'https://price-predictor-demo.com',
-      image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=200&fit=crop'
+      technologies: ['Python', 'Plotly', 'Pandas', 'NumPy','Scikit-learn','Matplotlib'],
+      githubUrl: 'https://github.com/Vagdevi-G615/Stock-market-anomaly-detection-.git',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqGgl_CaYGV0nwJxxg6KP9e2f2tZRUveAaTA&s'
     },
     {
       title: 'E-Commerce Analytics Dashboard',
