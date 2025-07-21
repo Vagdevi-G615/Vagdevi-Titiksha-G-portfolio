@@ -48,7 +48,7 @@ const ContactSection = () => {
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: 'LinkedIn',
-      href: 'www.linkedin.com/in/vagdevi-titiksha-gorti',
+      href: 'https://www.linkedin.com/in/vagdevi-titiksha-gorti/',
       username: 'in/vagdevi-titiksha-gorti'
     },
    
